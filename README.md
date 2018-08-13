@@ -3,7 +3,7 @@ TWP is a VeraCrypt Encrypted Portable version of ToastWallet.
 It will keep the AppData\Roaming\ToastWallet files localy in the Executable directrory, like on a usb flash drive or external hardrive, these files will be stored in a Veracrypt Encrypted Container, for now using a SHA-512 AES Serpent Algorithm. If ppl like the project i will consider building in more Algorithms.
 
 # Usage
-Either Download the Source code and follow the instructions bellow. Or download the Executable from [here](https://drive.google.com/open?id=1VIx0HF4HmK1Dw_K-Fh3NOtouo129HXnT) and extract it using WinRar.
+Either Download the Source code and follow the instructions bellow. Or download the Executable from [here](https://drive.google.com/open?id=1QQM_9QhXm3_MQ3Zg4qfa-h1DRwCIrIip) and extract it using WinRar.
 Copy TWP.exe to a location of choice, and execute it, first time run, TWP will ask you to create a VeraCrypt container.
 after that every time TWP is started you will be asked this password to unlock TWP.
 this is a extra layer of security, as the Toastwallet database files are already encrypted with the standard pin you use to unlock your Toastwallet.
@@ -18,7 +18,7 @@ Compiling from source is pritty easy\
 (5) Copy dependancies "Toastwallet.exe", "veracrypt-x64.exe", "veracrypt format-x64.exe", "verarypt-x64.sys" to Resources folder;\
 (6) Import the project into Visual studio 2017 and compile the binary;
 
-Or Download a PreCompiled version [here](https://drive.google.com/open?id=1VIx0HF4HmK1Dw_K-Fh3NOtouo129HXnT)
+Or Download a PreCompiled version [here](https://drive.google.com/open?id=1QQM_9QhXm3_MQ3Zg4qfa-h1DRwCIrIip)
 
 # 3e party SourceCode and Binaries (Dependencies)
 ToastWallet:
